@@ -1,0 +1,5 @@
+What is os?
+What are different os?
+What is partition and its use?
+How many partitions can be done?
+
